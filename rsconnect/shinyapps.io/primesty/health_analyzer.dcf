@@ -1,0 +1,12 @@
+name: health_analyzer
+title: health_analyzer
+username:
+account: primesty
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 258766
+bundleId: 1184691
+url: https://primesty.shinyapps.io/health_analyzer/
+when: 1516476436.80654
+asMultiple: FALSE
+asStatic: FALSE
