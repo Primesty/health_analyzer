@@ -7,4 +7,4 @@ The main reason for this project, was to build an interface that users could use
 themselves.
 
 
-![Alt Text](https://github.com/mraess/health_analyzer/health_gif.gif)
+![Dashboard screen](https://github.com/mraess/health_analyzer/blob/master/health_gif.gif)
